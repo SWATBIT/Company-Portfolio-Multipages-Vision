@@ -1,0 +1,97 @@
+/* media query 1199.5px  */
+
+@media (max-width: 1199.5px) {
+    /* parallax */
+
+    /* process */
+
+    /* contact */
+
+    
+}
+
+/* media query 991.5px  */
+
+@media (max-width: 991.5px) {
+    
+    /* navbar  */
+
+    .header .navbar-collapse{
+        padding: 2rem;
+    }
+
+    .header .navbar-nav .nav-link{
+        padding: 0.6rem 0.5rem;
+        margin-bottom: 2rem;
+    }
+    
+    /* Banner Design */
+
+    .banner-wrapper{
+        margin-top: 4rem;
+        padding: 4rem 2rem;
+        min-height: 730px;
+    }
+
+    
+
+    /* card */
+
+    /* Parallax CSS */
+
+    /* contact page */
+    
+}
+
+/* media query 767.5px  */
+@media (max-width: 767.5px) {
+    /* General CSS  */
+    
+    body,
+    html{
+        font-size: 8px;
+    }
+
+    /* Banner Design */
+
+    .banner-wrapper{
+        min-height: 550px;
+    }
+
+    
+
+    /* card */
+
+    /* Parallax CSS */
+
+    /* contact page */
+}
+
+/* media query 590px  */
+@media (max-width: 590px) {
+    /* General CSS  */
+
+    body,
+    html{
+        font-size: 7px;
+    }
+    
+    /* Footer */
+
+    
+
+    /* contact page */
+}
+
+/* media query 390.4px  */
+@media (max-width: 390.4px) {
+    
+    h1{
+        font-size: 27px;
+    }
+
+    h2{
+        font-size: 25px;
+    }
+}
+
